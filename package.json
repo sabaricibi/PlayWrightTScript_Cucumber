@@ -1,18 +1,16 @@
 {
-  "name": "playwrightui_typescript_cucumber",
+  "name": "playwrightuiautomationwithts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "cucumber-js test"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@cucumber/cucumber": "^10.8.0",
-    "@playwright/test": "^1.44.1",
-    "@types/node": "^20.13.0",
-    "ts-node": "^10.9.2"
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
   }
 }
